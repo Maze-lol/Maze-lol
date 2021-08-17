@@ -12,15 +12,17 @@ I'm Dipesh Shrestha, focus on becoming a machine learning and AI. I solve proble
 
 
 ### Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/dipesh-shrestha-4ab2b71b0/) [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-- [Instagram] (https://www.instagram.com/_iamdibest/) [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- [LinkedIn](https://www.linkedin.com/in/dipesh-shrestha-4ab2b71b0/) [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
+- [Instagram] (https://www.instagram.com/_iamdibest/) [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
 
 ## **Language and Tools**
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maze-lol&theme=synthwave)
+
 ![Maze GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maze-lol&hide=prs,issues,contribs?username=Maze-lol&count_private=true?username=Maze-lol&show_icons=true&theme=synthwave)
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Maze-lol&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -31,6 +33,4 @@ I'm Dipesh Shrestha, focus on becoming a machine learning and AI. I solve proble
 
 
 
-[website]: https://dipesh-shrestha.netlify.app/
-[instagram] : https://www.instagram.com/_iamdibest/
-[linkedin] : https://www.linkedin.com/in/dipesh-shrestha-4ab2b71b0/
+

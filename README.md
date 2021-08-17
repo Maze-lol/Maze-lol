@@ -28,13 +28,13 @@ I'm Dipesh Shrestha, focus on becoming a machine learning and AI. I solve proble
 
 ## **Pinned Card** 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Maze-lol&repo=Stock_Price_Prediction&show_owner=true)](https://github.com/Maze-lol/Stock_Price_Prediction)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Maze-lol&repo=Stock_Price_Prediction&show_owner=true&theme=radical)](https://github.com/Maze-lol/Stock_Price_Prediction)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Maze-lol&repo=ExpenseTracker&show_owner=true)](https://github.com/Maze-lol/ExpenseTracker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Maze-lol&repo=ExpenseTracker&show_owner=true&theme=radical)](https://github.com/Maze-lol/ExpenseTracker)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Maze-lol&repo=Facebook_Clone&show_owner=true)](https://github.com/Maze-lol/Facebook_Clone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Maze-lol&repo=Facebook_Clone&show_owner=true&theme=radical)](https://github.com/Maze-lol/Facebook_Clone)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Maze-lol&repo=memories&show_owner=true)](https://github.com/Maze-lol/memories)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Maze-lol&repo=memories&show_owner=true&theme=radical)](https://github.com/Maze-lol/memories)
 
 
 

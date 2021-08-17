@@ -11,7 +11,8 @@ I'm Dipesh Shrestha, focus on becoming a machine learning and AI. I solve proble
 - 📫 Keep in touch with me: [Connect](https://www.linkedin.com/in/dipesh-shrestha-4ab2b71b0/)
 
 **Pinned:**
-
+- 📌 [Python-Using-Pong](https://github.com/Maze-lol/Pong-Using-Python)
+- 📌 [Stock Prediction](https://github.com/Maze-lol/Stock_Price_Prediction)
 
 
 ### Connect with me:

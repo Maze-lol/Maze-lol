@@ -19,8 +19,11 @@ I'm Dipesh Shrestha, focus on becoming a machine learning and AI. I solve proble
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maze-lol&theme=synthwave)
 
+## **Maze Stats**
+
 ![Maze GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maze-lol&hide=prs,issues,contribs?username=Maze-lol&count_private=true?username=Maze-lol&show_icons=true&theme=synthwave)
 
+## **Pinned Card ** 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Maze-lol&repo=Stock_Price_Prediction&show_owner=true)](https://github.com/Maze-lol/Stock_Price_Prediction)
 

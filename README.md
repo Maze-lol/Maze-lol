@@ -12,8 +12,8 @@ I'm Dipesh Shrestha, focus on becoming a machine learning and AI. I solve proble
 
 
 ### Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/dipesh-shrestha-4ab2b71b0/) [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
-- [Instagram] (https://www.instagram.com/_iamdibest/) [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
+- [LinkedIn](https://www.linkedin.com/in/dipesh-shrestha-4ab2b71b0/) <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+- [Instagram](https://www.instagram.com/_iamdibest/) <img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 
 ## **Language and Tools**
 
@@ -23,11 +23,11 @@ I'm Dipesh Shrestha, focus on becoming a machine learning and AI. I solve proble
 
 ![Maze GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maze-lol&hide=prs,issues,contribs?username=Maze-lol&count_private=true?username=Maze-lol&show_icons=true&theme=synthwave)
 
-## **Pinned Card ** 
+## **Pinned Card** 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Maze-lol&repo=Stock_Price_Prediction&show_owner=true)](https://github.com/Maze-lol/Stock_Price_Prediction)
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Maze-lol&repo=ExpenseTracker&show_owner=true)](https://github.com/Maze-lol/ExpenseTracker)
 
 
 

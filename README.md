@@ -5,7 +5,7 @@
 I'm Dipesh Shrestha, focus on becoming a machine learning and AI. I solve problem in a creative way, And learns in the process.
 
 **Updates:**
-- 🎤 I'm currently on final year of Computer Science
+- 📚 I'm currently on final year of Computer Science major
 - 📖 I'm currently learning Machine learning and AI
 - 👫 I;m looking to collaborate on Machine learning and deep learning
 - 📫 Keep in touch with me: [Connect](https://www.linkedin.com/in/dipesh-shrestha-4ab2b71b0/)
@@ -34,7 +34,7 @@ I'm Dipesh Shrestha, focus on becoming a machine learning and AI. I solve proble
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Maze-lol&repo=Facebook_Clone&show_owner=true)](https://github.com/Maze-lol/Facebook_Clone)
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Maze-lol&repo=memories&show_owner=true)](https://github.com/Maze-lol/memories)
 
 
 

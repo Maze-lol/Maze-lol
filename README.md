@@ -1,6 +1,6 @@
 ### Hello There, I'm Dipesh! - aka Maze 👋
 
-[![Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https://dipesh-shrestha.netlify.app/)](https://dipesh-shrestha.netlify.app/)
+[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://dipesh-shrestha.netlify.app/)](https://dipesh-shrestha.netlify.app/)
 
 I'm Dipesh Shrestha, focus on becoming a machine learning and AI. I solve problem in a creative way, And learns in the process.
 
@@ -9,6 +9,9 @@ I'm Dipesh Shrestha, focus on becoming a machine learning and AI. I solve proble
 - 📖 I'm currently learning Machine learning and AI
 - 👫 I;m looking to collaborate on Machine learning and deep learning
 - 📫 Keep in touch with me: [Connect](https://www.linkedin.com/in/dipesh-shrestha-4ab2b71b0/)
+
+**Pinned:**
+
 
 
 ### Connect with me:
@@ -21,13 +24,15 @@ I'm Dipesh Shrestha, focus on becoming a machine learning and AI. I solve proble
 
 ## **Maze Stats**
 
-![Maze GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maze-lol&hide=prs,issues,contribs?username=Maze-lol&count_private=true?username=Maze-lol&show_icons=true&theme=synthwave)
+![Maze GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maze-lol&hide=issues,contribs?username=Maze-lol&count_private=true?username=Maze-lol&show_icons=true&theme=synthwave)
 
 ## **Pinned Card** 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Maze-lol&repo=Stock_Price_Prediction&show_owner=true)](https://github.com/Maze-lol/Stock_Price_Prediction)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Maze-lol&repo=ExpenseTracker&show_owner=true)](https://github.com/Maze-lol/ExpenseTracker)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Maze-lol&repo=Facebook_Clone&show_owner=true)](https://github.com/Maze-lol/Facebook_Clone)
 
 
 

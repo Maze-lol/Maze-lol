@@ -22,7 +22,7 @@ I'm Dipesh Shrestha, focus on becoming a machine learning and AI. I solve proble
 ![Maze GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maze-lol&hide=prs,issues,contribs?username=Maze-lol&count_private=true?username=Maze-lol&show_icons=true&theme=synthwave)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Maze-lol&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Maze-lol&repo=github-readme-stats&show_owner=true)](https://github.com/Maze-lol/Stock_Price_Prediction)
 
 
 

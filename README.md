@@ -11,6 +11,9 @@ I'm Dipesh Shrestha, focus on becoming a machine learning and AI. I solve proble
 - 📫 Keep in touch with me: [Connect](https://www.linkedin.com/in/dipesh-shrestha-4ab2b71b0/)
 
 **Pinned:**
+- 📌 [Model Selection](https://github.com/Maze-lol/ModelSelection)
+- 📌 [Image Prediction](https://github.com/Maze-lol/ImagePrediciton_pretrainedModel)
+- 📌 [DogsvsCats](https://github.com/Maze-lol/DogvsCatClassification)
 - 📌 [Python-Using-Pong](https://github.com/Maze-lol/Pong-Using-Python)
 - 📌 [Stock Prediction](https://github.com/Maze-lol/Stock_Price_Prediction)
 
@@ -29,9 +32,9 @@ I'm Dipesh Shrestha, focus on becoming a machine learning and AI. I solve proble
 
 ## **Pinned Card** 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Maze-lol&repo=Stock_Price_Prediction&show_owner=true&theme=radical)](https://github.com/Maze-lol/Stock_Price_Prediction)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Maze-lol&repo=ModelSelection&show_owner=true&theme=radical)](https://github.com/Maze-lol/ModelSelection)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Maze-lol&repo=ExpenseTracker&show_owner=true&theme=radical)](https://github.com/Maze-lol/ExpenseTracker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Maze-lol&repo=Stock_Price_Prediction&show_owner=true&theme=radical)](https://github.com/Maze-lol/Stock_Price_Prediction)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Maze-lol&repo=Facebook_Clone&show_owner=true&theme=radical)](https://github.com/Maze-lol/Facebook_Clone)
 
